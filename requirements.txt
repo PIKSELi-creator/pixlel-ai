@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-ollama
+langgraph
+gradio
+python-dotenv
+langchain-openai
+langchain-groq
+pydantic
+rich
