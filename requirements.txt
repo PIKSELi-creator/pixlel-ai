@@ -1,10 +1,9 @@
 langchain
 langchain-community
-langchain-ollama
 langgraph
+langchain-ollama
+langchain-openai
 gradio
 python-dotenv
-langchain-openai
-langchain-groq
 pydantic
 rich
